@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\창의실무\projectPAC\Project-pac\bin\Debug\Project-pac.exe.config
+C:\Users\USER\Desktop\창의실무\projectPAC\Project-pac\bin\Debug\Project-pac.exe
+C:\Users\USER\Desktop\창의실무\projectPAC\Project-pac\bin\Debug\Project-pac.pdb
+C:\Users\USER\Desktop\창의실무\projectPAC\Project-pac\obj\Debug\Project-pac.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\창의실무\projectPAC\Project-pac\obj\Debug\Project_pac.Properties.Resources.resources
+C:\Users\USER\Desktop\창의실무\projectPAC\Project-pac\obj\Debug\Project-pac.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\창의실무\projectPAC\Project-pac\obj\Debug\Project-pac.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\창의실무\projectPAC\Project-pac\obj\Debug\Project-pac.exe
+C:\Users\USER\Desktop\창의실무\projectPAC\Project-pac\obj\Debug\Project-pac.pdb
+C:\Users\USER\Desktop\창의실무\projectPAC\Project-pac\obj\Debug\Project_pac.UI.Form1.resources
+C:\Users\USER\Desktop\창의실무\projectPAC\Project-pac\obj\Debug\Project_pac.GameLoad.resources
